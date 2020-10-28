@@ -1,5 +1,15 @@
 # How to host the DocumentEditor service.
 
+## Add Wordprocessor jar file
+
+`syncfusion-ej2-wordprocessor-18.1.0.29.jar` file available in [Essential-JS2](https://www.syncfusion.com/downloads/essential-js2) build installed location.
+
+**Syntax:**
+> Jar file: `(installed location)/Syncfusion/Essential Studio/JavaScript - EJ2/(installed version)/JarFiles/syncfusion-ej2-wordprocessor-(installed version).jar`
+
+**Example:**
+> Jar file: `C:/Program Files (x86)/Syncfusion/Essential Studio/JavaScript - EJ2/18.1.0.29/JarFiles/syncfusion-ej2-wordprocessor-18.1.0.29.jar`
+
 ## Maven Project
 
 Please find the list of commands used for running and deploying the spring boot application in Azure.
