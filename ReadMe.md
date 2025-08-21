@@ -1,6 +1,6 @@
 # EJ2\-DocumentEditor\-Java\-WebService
 
-This repository provides a working example of how to host a Java\-based web service backend for the Syncfusion Document Editor (a.k.a. Word Processor) component. 
+This repository provides a working example of how to host a Java\-based web service backend for the Syncfusion® Document Editor (a.k.a. Word Processor) component. 
 
 # How to host the DocumentEditor service.
 
