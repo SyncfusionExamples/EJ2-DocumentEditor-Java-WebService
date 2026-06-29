@@ -1,8 +1,8 @@
-# EJ2\-DocumentEditor\-Java\-WebService
+# EJ2 DOCX Editor (Document Editor) Java Web Service
 
-This repository provides a working example of how to host a Java\-based web service backend for the Syncfusion® Document Editor (a.k.a. Word Processor) component. 
+This repository provides a working example of how to host a Java\-based web service backend for the Syncfusion<sup style="font-size:70%">&reg;</sup> [DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/react-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-document-editor-examples) (Document Editor). 
 
-# How to host the DocumentEditor service.
+# How to host the DOCX Editor service.
 
 ## Maven Project
 
